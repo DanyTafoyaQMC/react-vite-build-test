@@ -5,7 +5,7 @@ export const Testimonios = [
     {
       id:1,
       imagen:shawnImage,
-      nombre:"Shawn Wang",
+      nombre:"Ching Cheng Han Chi",
       pais:"Singapur",
       ocupacion:"Ingeniero de software",
       empresa:"Amazon",
